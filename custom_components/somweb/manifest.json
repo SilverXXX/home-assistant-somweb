@@ -1,0 +1,15 @@
+{
+    "domain": "somweb",
+    "name": "SOMMER (SOMweb)",
+    "documentation": "https://github.com/taarskog/home-assistant-core/tree/add-somweb-cover-platform/",
+    "config_flow": true,
+    "dependencies": [],
+    "homeassistant": "2021.8.8",
+    "version": "v1.0",
+    "codeowners": [
+        "@taarskog"
+    ],
+    "requirements": [
+        "somweb==1.0.0"
+    ]
+}

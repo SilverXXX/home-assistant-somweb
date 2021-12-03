@@ -1,0 +1,21 @@
+{
+    "config": {
+        "error": {
+            "invalid_id": "SOMweb UDI must be the unique id of your device (a number).",
+            "cannot_connect": "The SOMweb device is not accessible. Did you input the correct ID?",
+            "invalid_credentials": "Wrong username/password.",
+            "unknown": "An unknown error occurred."
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "id": "Device ID (UDI)",
+                    "username": "Username",
+                    "password": "Password"
+                },
+                "description": "Enter your SOMweb credentials.",
+                "title": "Authentication"
+            }
+        }
+    }
+}
